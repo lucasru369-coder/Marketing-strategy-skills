@@ -68,7 +68,7 @@ def main() -> None:
     parser.add_argument(
         "--weights",
         required=True,
-        help='JSON object, e.g. '{"brand": 30, "demand": 70}'',
+        help='JSON object, for example: {"brand": 30, "demand": 70}',
     )
     args = parser.parse_args()
 
