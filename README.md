@@ -10,10 +10,10 @@ A collection of practical, modular skills for marketing research, strategy, plan
 | [Competitor Analysis](./competitor-analysis/SKILL.md) | Competitive landscape, positioning, benchmarking, and strategic implications. |
 | [Brand Strategy](./brand-strategy/SKILL.md) | Brand positioning, value proposition, messaging, and brand experience. |
 | [Marketing Localization](./marketing-localization/SKILL.md) | Adapt global marketing strategy and communication to local markets. |
-| [Marketing Planning](./marketing-planning/SKILL.md) | Annual and quarterly priorities, budgets, calendars, resources, and performance governance. |
+| [Marketing Planning](./marketing-planning/SKILL.md) | Annual and quarterly priorities, budgets, calendars, resources, and performance governance. Includes reusable planning templates. |
 | [Campaign Strategy](./campaign-strategy/SKILL.md) | Individual campaign objectives, audience insight, concepts, channels, and measurement. |
 
-## Suggested workflow
+## Planning template pack\n\nThe `marketing-planning/templates/` directory contains reusable annual-plan, quarterly-review, budget, calendar, initiative-prioritization, and KPI-definition templates.\n\n## Suggested workflow
 
 1. **Understand the market:** Start with marketing research and competitor analysis.
 2. **Set strategic direction:** Use brand strategy to define positioning and long-term communication principles.
