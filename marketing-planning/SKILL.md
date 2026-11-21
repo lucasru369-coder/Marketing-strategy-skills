@@ -927,3 +927,17 @@ Marketing planning decides the portfolio, timing, investment, and resource conte
 - Scale the complexity of the framework to the organization's size and planning maturity.
 - Do not force every framework into every plan.
 - End with the decisions, approvals, or missing inputs needed to move planning forward.
+
+
+## 19. Supporting templates
+
+Use the repository templates to turn planning guidance into working documents:
+
+- [Annual marketing plan](./templates/annual-marketing-plan.md): annual objectives, strategic pillars, initiative portfolio, budget, and governance.
+- [Quarterly planning and review](./templates/quarterly-planning-and-review.md): quarterly commitments, KPI review, budget pacing, and decisions.
+- [Marketing budget planner](./templates/marketing-budget-planner.md): investment structure, allocation scenarios, spend tracking, and approval.
+- [Multi-market marketing calendar](./templates/marketing-calendar.md): campaign moments, channel activity, production milestones, and market validation.
+- [Initiative prioritization](./templates/initiative-prioritization.md): eligibility screening, weighted scoring, portfolio balance, and decision logs.
+- [Marketing KPI dictionary](./templates/marketing-kpi-dictionary.md): metric definitions, formulas, data sources, and measurement cautions.
+
+Templates are starting points. Adapt fields, approval steps, and scoring weights to the organization's operating model. Do not fill unknown values with invented data.
