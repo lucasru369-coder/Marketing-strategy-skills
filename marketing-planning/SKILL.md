@@ -941,3 +941,13 @@ Use the repository templates to turn planning guidance into working documents:
 - [Marketing KPI dictionary](./templates/marketing-kpi-dictionary.md): metric definitions, formulas, data sources, and measurement cautions.
 
 Templates are starting points. Adapt fields, approval steps, and scoring weights to the organization's operating model. Do not fill unknown values with invented data.
+
+
+## 20. Fictional examples
+
+The following examples demonstrate how to apply the planning workflow without exposing real business information:
+
+- [Fictional annual marketing plan](./examples/fictional-annual-plan.md)
+- [Fictional budget scenarios](./examples/fictional-budget-scenarios.md)
+
+All organizations, figures, and assumptions in these examples are invented for illustration only.
