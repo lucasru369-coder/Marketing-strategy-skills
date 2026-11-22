@@ -17,24 +17,34 @@ A collection of practical, modular skills for marketing research, strategy, plan
 
 Read the [Skill usage guide](./docs/skill-usage-guide.md) for the directory, suggested workflows, and a reusable invocation format.
 
+## Templates by workflow
+
+- **Research:** [Research brief](./marketing-research/templates/research-brief.md), [source evaluation log](./marketing-research/templates/source-evaluation-log.md)
+- **Competitive analysis:** [Competitor matrix](./competitor-analysis/templates/competitor-matrix.md)
+- **Brand:** [Positioning platform](./brand-strategy/templates/positioning-platform.md)
+- **Localization:** [Market adaptation checklist](./marketing-localization/templates/market-adaptation-checklist.md)
+- **Campaigns:** [Campaign brief](./campaign-strategy/templates/campaign-brief.md), [channel plan](./campaign-strategy/templates/channel-plan.md), [post-campaign review](./campaign-strategy/templates/post-campaign-review.md)
+- **Planning:** [Planning templates index](./marketing-planning/templates/README.md), including annual plans, quarterly reviews, budget, prioritization, KPIs, RACI, risk, and decision logs.
+- **Cross-functional:** [Marketing brief intake](./docs/brief-intake-template.md), [measurement plan](./docs/measurement-plan-template.md), [decision log](./docs/decision-log-template.md)
+
 ## Quality and maintenance
 
 - [Skill quality checklist](./docs/skill-quality-checklist.md)
 - [Maintenance policy](./docs/maintenance-policy.md)
+- [Contribution guide](./docs/contribution-guide.md)
+- [Shared glossary](./docs/glossary.md)
 
-## Planning resources
-
-The `marketing-planning/templates/` directory contains reusable annual-plan, quarterly-review, budget, calendar, initiative-prioritization, and KPI-definition templates.
+## Planning examples and utility
 
 See the [fictional annual plan](./marketing-planning/examples/fictional-annual-plan.md), [fictional budget scenarios](./marketing-planning/examples/fictional-budget-scenarios.md), and [fictional cross-market plan](./marketing-planning/examples/fictional-cross-market-plan.md) for illustrative applications.
 
-## Planning utility
-
-The [budget allocator](./tools/README.md) is a small Python command-line utility for proportional budget allocation. Run its unit tests with:
+The [budget allocator](./tools/README.md) is a small Python command-line utility for proportional budget allocation. Run its tests with:
 
 ```bash
 python -m unittest discover -s tests -v
 ```
+
+A GitHub Actions workflow runs the Python test suite when relevant files change.
 
 ## Principles
 
