@@ -1,6 +1,6 @@
 # Marketing Planning Templates
 
-This folder contains reusable working documents for annual and quarterly planning.
+This folder contains reusable working documents for annual and quarterly planning, resource coordination, risk management, and decision tracking.
 
 | Template | Use it for |
 |---|---|
@@ -10,14 +10,18 @@ This folder contains reusable working documents for annual and quarterly plannin
 | [Marketing calendar](./marketing-calendar.md) | Coordinate market moments, campaigns, channels, and production milestones. |
 | [Initiative prioritization](./initiative-prioritization.md) | Compare competing initiatives and document trade-offs. |
 | [KPI dictionary](./marketing-kpi-dictionary.md) | Standardize metric definitions and measurement assumptions. |
+| [Resource and RACI plan](./resource-raci.md) | Clarify delivery ownership, capacity, and cross-team responsibilities. |
+| [Risk register](./risk-register.md) | Identify, assess, and monitor planning risks. |
+| [Planning decision log](./decision-log.md) | Record material choices, rationale, owners, and follow-up actions. |
 
 ## Recommended sequence
 
 1. Complete the annual plan after business objectives and market evidence are available.
 2. Use the prioritization framework to select the initiative portfolio.
 3. Translate selected initiatives into a budget and annual calendar.
-4. Break the annual plan into quarterly commitments.
-5. Define KPIs before execution and use the quarterly review to adjust the plan.
+4. Confirm resource ownership and capacity before committing milestones.
+5. Define KPIs and risks before execution.
+6. Break the annual plan into quarterly commitments and review outcomes regularly.
 
 ## Usage notes
 
